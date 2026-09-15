@@ -100,7 +100,6 @@
     <Compile Include="CreateTaskForLead.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReAssignIncident.cs" />
-    <Compile Include="RecalculateSumOfServices.cs" />
     <Compile Include="SetStateOpportunity.cs" />
     <Compile Include="SynchronizeTenderAndRequest.cs" />
     <Compile Include="UpdateOpportunity.cs" />

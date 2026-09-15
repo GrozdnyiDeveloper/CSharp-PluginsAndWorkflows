@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kotko\\Desktop\\11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\checktenderbysystemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\checktenderbysystemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\calculatediscountfortender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\calculatediscountfortender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\trigeranactionasuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\trigeranactionasuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\startworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +15,24 @@
       "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\gettenderworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\formjsonfortender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\formjsonfortender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\gettaxworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\gettaxworkflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\trigeranactionasuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\trigeranactionasuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\formjsonfortender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\formjsonfortender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\checktenderbysystemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\checktenderbysystemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\calculatediscountfortender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\calculatediscountfortender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|c:\\users\\kotko\\desktop\\11\\exampleworkflows\\calculatediscountforexternalproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB0E5EC-DF6E-4CC5-BEF4-E593425A560D}|ExampleWorkflows\\ExampleWorkflows.csproj|solutionrelative:exampleworkflows\\calculatediscountforexternalproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,45 +42,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "TrigerAnActionAsUser.cs",
+              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\TrigerAnActionAsUser.cs",
+              "RelativeDocumentMoniker": "ExampleWorkflows\\TrigerAnActionAsUser.cs",
+              "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\TrigerAnActionAsUser.cs",
+              "RelativeToolTip": "ExampleWorkflows\\TrigerAnActionAsUser.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvy8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:50:06.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StartWorkflow.cs",
               "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\StartWorkflow.cs",
               "RelativeDocumentMoniker": "ExampleWorkflows\\StartWorkflow.cs",
               "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\StartWorkflow.cs",
               "RelativeToolTip": "ExampleWorkflows\\StartWorkflow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:20:22.539Z",
+              "WhenOpened": "2026-09-15T13:47:02.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GetTenderWorkflow.cs",
               "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\GetTenderWorkflow.cs",
               "RelativeDocumentMoniker": "ExampleWorkflows\\GetTenderWorkflow.cs",
               "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\GetTenderWorkflow.cs",
               "RelativeToolTip": "ExampleWorkflows\\GetTenderWorkflow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:20:19.151Z",
+              "WhenOpened": "2026-09-15T13:46:12.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "GetTaxWorkflow.cs",
               "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\GetTaxWorkflow.cs",
               "RelativeDocumentMoniker": "ExampleWorkflows\\GetTaxWorkflow.cs",
               "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\GetTaxWorkflow.cs",
               "RelativeToolTip": "ExampleWorkflows\\GetTaxWorkflow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:20:16.566Z",
+              "WhenOpened": "2026-09-15T13:45:12.157Z",
               "EditorCaption": ""
             },
             {
@@ -87,48 +104,48 @@
               "RelativeDocumentMoniker": "ExampleWorkflows\\FormJSONForTender.cs",
               "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\FormJSONForTender.cs",
               "RelativeToolTip": "ExampleWorkflows\\FormJSONForTender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAswK8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:20:13.588Z",
+              "WhenOpened": "2026-09-15T13:43:56.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CheckTenderBySystemCode.cs",
               "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\CheckTenderBySystemCode.cs",
               "RelativeDocumentMoniker": "ExampleWorkflows\\CheckTenderBySystemCode.cs",
               "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\CheckTenderBySystemCode.cs",
               "RelativeToolTip": "ExampleWorkflows\\CheckTenderBySystemCode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:20:09.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CalculateDiscountForTender.cs",
-              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\CalculateDiscountForTender.cs",
-              "RelativeDocumentMoniker": "ExampleWorkflows\\CalculateDiscountForTender.cs",
-              "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\CalculateDiscountForTender.cs",
-              "RelativeToolTip": "ExampleWorkflows\\CalculateDiscountForTender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:20:01.567Z",
+              "WhenOpened": "2026-09-15T13:42:32.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TrigerAnActionAsUser.cs",
-              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\TrigerAnActionAsUser.cs",
-              "RelativeDocumentMoniker": "ExampleWorkflows\\TrigerAnActionAsUser.cs",
-              "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\TrigerAnActionAsUser.cs",
-              "RelativeToolTip": "ExampleWorkflows\\TrigerAnActionAsUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Title": "CalculateDiscountForTender.cs",
+              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\CalculateDiscountForTender.cs",
+              "RelativeDocumentMoniker": "ExampleWorkflows\\CalculateDiscountForTender.cs",
+              "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\CalculateDiscountForTender.cs",
+              "RelativeToolTip": "ExampleWorkflows\\CalculateDiscountForTender.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T13:20:26.687Z",
+              "WhenOpened": "2026-09-15T13:41:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculateDiscountForExternalProject.cs",
+              "DocumentMoniker": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\CalculateDiscountForExternalProject.cs",
+              "RelativeDocumentMoniker": "ExampleWorkflows\\CalculateDiscountForExternalProject.cs",
+              "ToolTip": "C:\\Users\\kotko\\Desktop\\11\\ExampleWorkflows\\CalculateDiscountForExternalProject.cs",
+              "RelativeToolTip": "ExampleWorkflows\\CalculateDiscountForExternalProject.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv1YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:38:39.958Z",
               "EditorCaption": ""
             },
             {

@@ -21,14 +21,14 @@ namespace ExampleWorkflows
 
         protected override void Execute(CodeActivityContext executionContext)
         {
-            var administratorId = Guid.Parse("55a4bc12-f37e-ef11-a317-001dd8bb287f");
+            var administratorId = Guid.Parse("00000000-0000-0000-0000-000000000000");
 
             IWorkflowContext context = executionContext.GetExtension<IWorkflowContext>();
             IOrganizationServiceFactory ServiceFactory = executionContext.GetExtension<IOrganizationServiceFactory>();
             OrganizationServiceProxy service = (OrganizationServiceProxy)ServiceFactory.CreateOrganizationService(administratorId);
             service.CallerId = administratorId;
 
-            Guid workflowId = Guid.Parse("f192f300-d6ee-48eb-9a2f-0fc98f840006");
+            Guid workflowId = Guid.Parse("00000000-0000-0000-0000-000000000000");
             EntityReference selectedRequest = SelectedRequest.Get(executionContext);
 
             // Создание запроса на запуск процесса

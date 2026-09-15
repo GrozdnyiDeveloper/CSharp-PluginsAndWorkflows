@@ -21,7 +21,7 @@ namespace ExamplePlugins
     public class UpdateOpportunity : IPlugin
     {
         /// <summary>
-        /// Данный плагин логирует в описание записи Возможной сделки изменения поля "Текущая ситуация"
+        /// Данный плагин логгирует в описание записи Возможной сделки изменения поля "Текущая ситуация"
         /// </summary>
         public void Execute(IServiceProvider serviceProvider)
         {
